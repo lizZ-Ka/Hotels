@@ -1,0 +1,54 @@
+.StudyAtMisis {
+    width: 100%;
+    margin-top: 120px;
+}
+
+.StudyPage {    
+    display: flex;
+    flex-direction: row;
+}
+
+.StudyPage_txt {
+    text-align: left;
+    margin-left: 100px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.Study_txt {
+    color: #0849F1;
+}
+
+.Arrow_img {
+    width: 250px;
+    height: auto;
+    margin-top: 0;
+    padding-top: 75px;
+    margin-left: 70px;
+}
+
+.Choose {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Choose_txt {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 0px;
+    justify-content: flex-end;
+    padding-bottom: 50px;
+}
+
+.Choose_photo {
+    width: 550px;
+    height: auto;
+    margin-right: 120px;
+}
