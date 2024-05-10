@@ -4,7 +4,7 @@ import './App.css';
 import StudyAtMisis from './Widgets/StudyAtMisis.js';
 import HowItWorks from './Widgets/HowItWorks.js';
 
-function App() {
+function App() { 
   return (
     <div className='App'>
       <Header />
